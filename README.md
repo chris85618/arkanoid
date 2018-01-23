@@ -1,2 +1,2 @@
-# arkanoid
-arkanoid game
+# 打磚塊
+以Python實作之打磚塊遊戲
